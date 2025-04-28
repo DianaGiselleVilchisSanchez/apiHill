@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f2f5;
+    background-color: #b6d3fd;
     text-align: center;
     padding: 50px;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #f79af2;
     color: white;
     padding: 12px 20px;
     margin-top: 20px;
@@ -23,7 +23,7 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #a045a0;
 }
 
 #resultado {
